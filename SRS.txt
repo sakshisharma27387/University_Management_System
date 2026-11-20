@@ -1,0 +1,5 @@
+I am writing all the functional and non-functional requirement of SRS
+Functional Requirements
+a. Login
+b. Placement Portal 
+c. View Attendance
